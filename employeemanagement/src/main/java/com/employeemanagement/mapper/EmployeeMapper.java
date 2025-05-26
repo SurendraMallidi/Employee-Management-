@@ -26,8 +26,4 @@ public class EmployeeMapper {
         response.setEmpMobileNum(employee.getEmpMobileNum());
         return response;
     }
-
-
-
-
 }
